@@ -1,13 +1,8 @@
 title: Alaa Hesham
 description: VoIP Infrastructure Engineer
-theme: minimal-mistakes-jekyll
-
-markdown: kramdown
 
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
-
-author:
-  name: Alaa Hesham
