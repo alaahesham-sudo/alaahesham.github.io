@@ -1,30 +1,29 @@
 ---
 layout: home
-title: Home
+title: Portfolio
 ---
 
-# Alaa Hesham  
-## VoIP Infrastructure Engineer
+# 🚧 Portfolio Under Development
 
-VoIP Systems • Linux Infrastructure • SIP Networks • Call Center Architecture
+This portfolio is currently being updated.
 
----
-
-I design and operate scalable VoIP infrastructures for multi-site contact centers, focusing on reliability, call quality, and system stability.
-
-Currently building expertise in cybersecurity (OSCP track) and low-level system security.
+I am actively refining content and adding new technical writeups.
 
 ---
 
-### Quick Links
-- [LinkedIn](https://linkedin.com/in/alaa-hesham-244995189)
-- [Email](mailto:alaahesham183@gmail.com)
+## What’s coming:
+- VoIP engineering breakdowns
+- SIP troubleshooting notes
+- Linux infrastructure insights
+- Security (OSCP track) labs
 
 ---
 
-### Focus Areas
-- VoIP Infrastructure Engineering
-- SIP / RTP Systems
-- Linux Server Administration
-- Network Design & Troubleshooting
-- Contact Center Systems
+### Status:
+🔄 In progress — updated regularly
+
+---
+
+📩 Contact:
+- Email: alaahesham183@gmail.com
+- LinkedIn: linkedin.com/in/alaa-hesham-244995189
