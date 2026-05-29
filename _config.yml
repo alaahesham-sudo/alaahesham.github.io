@@ -1,7 +1,7 @@
 title: Alaa Hesham
-description: VoIP Infrastructure Engineer
+description: VoIP Engineer
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-remote-theme
